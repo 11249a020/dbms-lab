@@ -1,5 +1,12 @@
-enter user-name: A020@db2021
-enter password:
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Aug 11 02:31:35 2026
+
+Copyright (c) 1982, 2010, Oracle.  All rights reserved.
+
+Enter user-name: A020@db2021
+Enter password:
+
+Connected to:
+Oracle Database 11g Release 11.2.0.1.0 - Production
 
 
 
